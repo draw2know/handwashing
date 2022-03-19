@@ -2,7 +2,8 @@
 </script>
 
 <main>
-	<p>hi du schwanz junge</p>
+	<p>neuer content</p>
+	<p>content</p>
 </main>
 
 <style>
