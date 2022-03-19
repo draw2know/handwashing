@@ -2,8 +2,7 @@
 </script>
 
 <main>
-	<p>neuer content</p>
-	<p>content</p>
+	<h1>komplett neuer Stizzle!</h1>
 </main>
 
 <style>
