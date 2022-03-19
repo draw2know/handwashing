@@ -2,7 +2,7 @@
 </script>
 
 <main>
-	<p>hi</p>
+	<p>hi du schwanz</p>
 </main>
 
 <style>
