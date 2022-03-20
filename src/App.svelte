@@ -2,7 +2,7 @@
 </script>
 
 <main>
-	<h1>komplett krasser neuer geiler Stizzle!</h1>
+	<h1>letzer Test</h1>
 </main>
 
 <style>
